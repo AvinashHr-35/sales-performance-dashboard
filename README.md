@@ -1,6 +1,6 @@
 ## Sales Performance Dashboard
-Tools: SQL, Excel, Power BI
-Dataset: Superstore Sales (9,994 rows)
+**Tools**: SQL, Excel, Power BI
+**Dataset**: Superstore Sales (9,994 rows)
 
 ## Key Insights
 - West region has highest revenue
