@@ -1,5 +1,5 @@
 ## Sales Performance Dashboard
-**Tools**: SQL, Excel, Power BI
+**Tools**: SQL, Excel, Power BI <br>
 **Dataset**: Superstore Sales (9,994 rows)
 
 ## Key Insights
